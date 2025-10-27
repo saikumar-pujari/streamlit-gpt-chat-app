@@ -4,7 +4,8 @@
 ## Overview
 This is a simple Streamlit web application prototype created for testing purposes. The app demonstrates basic Streamlit components and serves as a foundation for further development.
 
-![Chat Interface Screenshot](screnshot)
+![Chat Interface Screenshot](./Screenshot%202025-10-28%20012251.png)
+
 
 ## Project Structure
 ```
